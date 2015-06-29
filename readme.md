@@ -10,11 +10,13 @@ Choose one of the three options that are sorted by difficulty
 
 **Requirements**
 
-Implement this project with
+* Implement inside a Rails app
+* Use the asset pipeline
+* Use partrials
+* Integrate [Sass](http://sass-lang.com/)
 
-* A Rails app on a `welcome#index` page
-* Using files served from the `stylesheets` folder, using the asset pipeline
-* Implement some Sass into the project
-	* For a few good tutorials on Sass checkout
-		* [Sass Lang Guide](http://sass-lang.com/guide)
-		* [The SassWay](http://thesassway.com/beginner)
+
+Suggested Sass Resources
+
+* [Sass Lang Guide](http://sass-lang.com/guide)
+* [The SassWay](http://thesassway.com/beginner)
